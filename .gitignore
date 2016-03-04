@@ -1,0 +1,8 @@
+### Example user template template
+### Example user template
+
+../.ide
+/data
+*.iml
+out
+gen
