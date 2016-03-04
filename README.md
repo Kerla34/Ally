@@ -2,6 +2,21 @@
 
 Code challenge for the Business Intelligence Manager position.
 
+## Notes
+
+This is my own version of this test, including data set and the script for analysis
+Using :
+ - iPython Notebooks
+ - anaconda environment thomas1.yml in this repo
+
+## iPython Notebook
+To install and use the iPython Notebook file, please refer to following documentation:
+http://jupyter.readthedocs.org/en/latest/install.html
+
+## anaconda Environment
+Install anaconda : http://docs.continuum.io/anaconda/install
+Create environment from .yml file : http://conda.pydata.org/docs/using/envs.html
+
 ## Data
 
 Within this repository you're given a dataset in the form of a csv file, containing a log of users making route searches. The csv consists of the following columns:
