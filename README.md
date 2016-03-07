@@ -9,9 +9,19 @@ Using :
  - iPython Notebooks
  - anaconda environment thomas1.yml in this repo
 
+
+
+Thanks to Ally team for giving me the opportunity to take this test, I had a lot of fun doing it ! Cheers to them !
+
 ## iPython Notebook
 To install and use the iPython Notebook file, please refer to following documentation:
 http://jupyter.readthedocs.org/en/latest/install.html
+
+Why iPython Notebook ?
+iPython Notebook is easier to read the file and follow the logic of the user who wrote the script
+It also allows to keep variable in local memory and to not recompute ALL steps of a script.
+This is particularly relevant in data analysis / data science as some operation can be costly and/or the dataset can be
+quite big.
 
 ## anaconda Environment
 Install anaconda : http://docs.continuum.io/anaconda/install
